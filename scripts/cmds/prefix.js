@@ -36,16 +36,16 @@ module.exports = {
 			confirmThisThread: "Vui lòng thả cảm xúc bất kỳ vào tin nhắn này để xác nhận thay đổi prefix trong nhóm chat của bạn",
 			successGlobal: "Đã thay đổi prefix hệ thống bot thành: %1",
 			successThisThread: "Đã thay đổi prefix trong nhóm chat của bạn thành: %1",
-			myPrefix: "🦋𝘼𝙎𝙎𝘼𝙇𝘼𝙈𝙐𝘼𝙇𝘼𝙄𝙆𝙐𝙈✨"
-				+ "\n                       "
-				+ "\n 𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 ♡𝕮𝖍𝖔𝖈𝖔𝖑𝖆𝖙𝖊 𝕼𝖚𝖊𝖊𝖓♡"
-				+ "\n 𝙃𝙚𝙧𝙚 𝙞𝙨 𝙢𝙮 ❇️ 𝙋𝙍𝙀𝙁𝙄𝙓 ❇️"
-				+ "\n                         "
-				+ "\n ~🌀 𝙎𝙔𝙎𝙏𝙀𝙈 𝙋𝙍𝙀𝙁𝙄𝙓: %1"
-				+ "\n ~♻️ 𝙋𝙍𝙀𝙁𝙄𝙓 𝙁𝙊𝙍 𝙏𝙃𝙀 𝙂𝙍𝙊𝙐𝙋: %2"
-				+ "\n                         "
-				+ "\n 💠 𝙃𝙀𝙍𝙀 𝙄𝙎 𝙈𝙔 𝙊𝙒𝙉𝙀𝙍 💠"
-				+ "\n ~𝙁𝘽✨:https://www.facebook.com/sirana252"
+			myPrefix: "ɴᴏᴍᴇ : 𝙻𝚞𝚍𝚊 𝙱𝚘𝚝🎀✨"
+				+ "\n                       
+				+ "\n 
+				+ "\n 
+				+ "\n                         
+				+ "\n ~🎀Global: %1"
+				+ "\n ~🎀Este chat: %2"
+				+ "\n                         
+				+ "\n  🎓ᴍᴇᴜ ᴅᴏɴᴏ🎓"
+				+ "\n ~https://www.facebook.com/ludafcull.5"
 		},
 		en: {
 			reset: "🙆| Your prefix has been reset to default: %1",
@@ -54,16 +54,16 @@ module.exports = {
 			confirmThisThread: "⚠️| Please react to this message to confirm change prefix in your box chat",
 			successGlobal: "♻️| Changed prefix of system bot to: %1",
 			successThisThread: "♻️| Changed prefix in your box chat to: %1",
-			myPrefix: "🦋𝘼𝙎𝙎𝘼𝙇𝘼𝙈𝙐𝘼𝙇𝘼𝙄𝙆𝙐𝙈✨"
+			myPrefix: "ɴᴏᴍᴇ : 𝙻𝚞𝚍𝚊 𝙱𝚘𝚝🎀✨"
 				+ "\n                       "
-				+ "\n 𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 ♡𝕮𝖍𝖔𝖈𝖔𝖑𝖆𝖙𝖊 𝕼𝖚𝖊𝖊𝖓♡"
-				+ "\n 𝙃𝙚𝙧𝙚 𝙞𝙨 𝙢𝙮 ❇️ 𝙋𝙍𝙀𝙁𝙄𝙓 ❇️"
-				+ "\n                         "
-				+ "\n ~🌀 𝙎𝙔𝙎𝙏𝙀𝙈 𝙋𝙍𝙀𝙁𝙄𝙓: %1"
-				+ "\n ~♻️ 𝙋𝙍𝙀𝙁𝙄𝙓 𝙁𝙊𝙍 𝙏𝙃𝙀 𝙂𝙍𝙊𝙐𝙋: %2"
-				+ "\n                         "
-				+ "\n 💠 𝙃𝙀𝙍𝙀 𝙄𝙎 𝙈𝙔 𝙊𝙒𝙉𝙀𝙍 💠"
-				+ "\n ~𝙁𝘽✨:https://www.facebook.com/sirana252"
+				+ "\n 
+				+ "\n 
+				+ "\n                         
+				+ "\n ~🎀Global: %1"
+				+ "\n ~🎀Este chat: %2"
+				+ "\n                         
+				+ "\n 🎓ᴍᴇᴜ ᴅᴏɴᴏ🎓"
+				+ "\n ~https://www.facebook.com/ludafcull.5
 		}
 	},
 
